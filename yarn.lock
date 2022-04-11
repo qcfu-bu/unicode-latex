@@ -7,12 +7,7 @@
   "resolved" "https://registry.npmjs.org/@types/node/-/node-6.0.92.tgz"
   "version" "6.0.92"
 
-"@types/vscode@^1.66.0":
+"@types/vscode@^1.38.0":
   "integrity" "sha512-ZfJck4M7nrGasfs4A4YbUoxis3Vu24cETw3DERsNYtDZmYSYtk6ljKexKFKhImO/ZmY6ZMsmegu2FPkXoUFImA=="
   "resolved" "https://registry.npmjs.org/@types/vscode/-/vscode-1.66.0.tgz"
   "version" "1.66.0"
-
-"typescript@^2.0.3":
-  "integrity" "sha1-7znN6ierrAtQAkLWcmq5DgyEZjE="
-  "resolved" "https://registry.npmjs.org/typescript/-/typescript-2.6.1.tgz"
-  "version" "2.6.1"
